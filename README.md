@@ -1,18 +1,10 @@
-# صباغ الجبيل الصناعية — Vercel
+# Jubail Painting Website v2
 
-React + Vite starter website in Arabic.
+Arabic responsive React + Vite website. Deploy on Vercel using the Vite preset.
 
-## Local preview
-1. Install Node.js (LTS).
-2. In this folder run: `npm install`
-3. Run: `npm run dev`
-4. Build: `npm run build`
-
-## Deploy to Vercel
-- Import this folder or push it to GitHub and import the repository in Vercel.
-- Framework preset: Vite
 - Build command: `npm run build`
 - Output directory: `dist`
+- WhatsApp: `+966557610551`
+- Phone: `0557610551`
 
-Phone/WhatsApp details are currently set to 0557610551. Update the WhatsApp URL in 
-<script type="module" src="/main.jsx"></script>
+Replace demo Unsplash images with actual project images when available.
