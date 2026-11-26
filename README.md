@@ -15,3 +15,4 @@ React + Vite starter website in Arabic.
 - Output directory: `dist`
 
 Phone/WhatsApp details are currently set to 0557610551. Update the WhatsApp URL in 
+<script type="module" src="/main.jsx"></script>
