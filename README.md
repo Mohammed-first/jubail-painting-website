@@ -14,4 +14,4 @@ React + Vite starter website in Arabic.
 - Build command: `npm run build`
 - Output directory: `dist`
 
-Phone/WhatsApp details are currently set to 0557610551. Update the WhatsApp URL in `src/main.jsx` if the number changes.
+Phone/WhatsApp details are currently set to 0557610551. Update the WhatsApp URL in 
